@@ -17,3 +17,5 @@ namespace BlazorCRUD.Data
         public DbSet<BlazorCRUD.Models.Student> Student { get; set; } = default!;
     }
 }
+
+
